@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text cool!
+=======
+Text 
+>>>>>>> 872922610ee405ef8416aafd8098d188aafb100e
